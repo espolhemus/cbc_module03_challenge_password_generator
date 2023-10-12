@@ -20,7 +20,7 @@ An image of the completed HTML page is as follows:
 
 An image of the contents of the respository is as follows:
 
-![Repository Image](/assets/images/respository_screenshot_202331012.png)
+![Repository Image](/assets/images/respository_screenshot_20231012.png)
 
 ## Credits
 
